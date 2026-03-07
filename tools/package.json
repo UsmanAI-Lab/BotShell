@@ -1,0 +1,10 @@
+{
+  "name": "botshell-tools",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "imap-simple": "^5.1.0",
+    "mailparser": "^3.7.2",
+    "nodemailer": "^6.9.16"
+  }
+}
